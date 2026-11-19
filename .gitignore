@@ -1,0 +1,12 @@
+.local/
+# Локальные команды серверов и файлы учётных данных.
+**/server-guides/
+*.credentials.md
+.scratch/
+__pycache__/
+*.pyc
+*.key
+*.pem
+*.conf
+.file-checks/
+dist/
